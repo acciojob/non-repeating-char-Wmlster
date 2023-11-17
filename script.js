@@ -26,5 +26,5 @@ function firstNonRepeatedChar(s) {
 
 	return null;
 }
-//const input = prompt("Enter a string");
+const input = prompt("Enter a string");
 alert(firstNonRepeatedChar(input)); 
